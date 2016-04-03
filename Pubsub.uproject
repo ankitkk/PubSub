@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6A50B359-4A36-58D1-97A3-4C80147DD7CC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Pubsub",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "StructBox",
+			"Enabled": true
+		}
+	]
+}

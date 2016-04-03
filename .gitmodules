@@ -1,0 +1,3 @@
+[submodule "Plugins/MessageBus"]
+	path = Plugins/MessageBus
+	url = git@gitlab.com:ankitkk/MessageBus.git
